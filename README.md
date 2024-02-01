@@ -35,12 +35,16 @@ There are no 'over the air' updates. Each update has to be applied manually.
    or
    Connect using bluetooth after finding in Terminal (MAC).
 2. Go to above site for installer.
-3. Hold down "Boot" button on the back of the CYD and click "Connect" on installer site.
-4. Release "Boot" button.
-5. Answer the prompts.
-6. Calibrate the screen with the stylus when it has completed installing
-7. Select which COM port you want to use to connect to the CYD (I use USB).
-8. Click "Install CYD Klipper".
+
+3. Select which COM port you want to use to connect to the CYD (I use USB).
+4. Click "Install CYD Klipper".
+5. Enable "Erase Device" and click "Next" (Only on initial setup, you won't erase after that).
+6. Click "Boot" button immediately after the previous step.
+7. Calibrate the screen with the stylus when it has completed installing
+8. Input wifi SSID and Password
+9. Input Mainsail/Fluid/Pi IP address (192.168.x.x) and leave in Port 80
+10. For any macros you want to run from the CYD, input the following in the "description" field like this:
+    description: CYD_SCREEN_MACRO
 
 ### Screenshots
 (Quite literally shots of the screen. I'm sorry)
