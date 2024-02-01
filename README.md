@@ -35,11 +35,12 @@ There are no 'over the air' updates. Each update has to be applied manually.
    or
    Connect using bluetooth after finding in Terminal (MAC).
 2. Go to above site for installer.
-3. Hold down "Boot" button on the back of the CYD and click "Install" on installer site.
+3. Hold down "Boot" button on the back of the CYD and click "Connect" on installer site.
 4. Release "Boot" button.
 5. Answer the prompts.
 6. Calibrate the screen with the stylus when it has completed installing
-7. 
+7. Select which COM port you want to use to connect to the CYD (I use USB).
+8. Click "Install CYD Klipper".
 
 ### Screenshots
 (Quite literally shots of the screen. I'm sorry)
