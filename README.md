@@ -8,7 +8,7 @@ An implementation of a wireless Klipper status display on an ESP32 + screen. Use
 
 A simple and cheap solution to use a dedicated screen with Klipper, a 3d printing Firmware.
 
-![showcase_image](readme/PXL_20231113_171629383.jpg)
+![showcase_image](https://github.com/suchmememanyskill/CYD-Klipper/tree/master/readme/PXL_20231113_171629383.jpg)
 
 ### Required hardware
 
@@ -51,9 +51,9 @@ There are no 'over the air' updates. Each update has to be applied manually.
 
 -|- 
 :-:|:-:
-![1](readme/PXL_20231113_142717308.jpg)|![2](readme/PXL_20231113_171701876.jpg)
-![3](readme/PXL_20231113_171715809.jpg)|![4](readme/PXL_20231113_171724404.jpg)
-![5](readme/PXL_20231113_171751745.jpg)|![6](readme/PXL_20231113_171809315.jpg)
+![1](https://github.com/suchmememanyskill/CYD-Klipper/tree/master/readme/PXL_20231113_142717308.jpg)|![2](https://github.com/suchmememanyskill/CYD-Klipper/tree/master/readme/PXL_20231113_171701876.jpg)
+![3](https://github.com/suchmememanyskill/CYD-Klipper/tree/master/readme/PXL_20231113_171715809.jpg)|![4](https://github.com/suchmememanyskill/CYD-Klipper/tree/master/readme/PXL_20231113_171724404.jpg)
+![5](https://github.com/suchmememanyskill/CYD-Klipper/tree/master/readme/PXL_20231113_171751745.jpg)|![6](https://github.com/suchmememanyskill/CYD-Klipper/tree/master/readme/PXL_20231113_171809315.jpg)
 
 
 ### Credits
