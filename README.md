@@ -1,5 +1,7 @@
-![GitHub release (with filter)](https://img.shields.io/github/v/release/suchmememanyskill/CYD-Klipper)
-[![Donations](https://img.shields.io/badge/Support%20on-Ko--Fi-red)](https://ko-fi.com/suchmememanyskill)
+# Instructions for Cheap Yellow Screen (CYD) using Klipper 3D printers
+
+## Teaching Tech Video with instructions
+https://www.youtube.com/watch?v=R3o0MGYW1ZU&list=LL&index=9 
 
 # CYD-Klipper
 An implementation of a wireless Klipper status display on an ESP32 + screen. Uses Moonraker to fetch data.
@@ -28,6 +30,16 @@ A ESP32-2432S028R is required to run this project. You can find out where to buy
 On initial install, all data should be wiped. On updates, data should be able to be kept without issues.
 
 There are no 'over the air' updates. Each update has to be applied manually.
+
+1. Connect CYD to PC with micro USB cord (must have data).
+   or
+   Connect using bluetooth after finding in Terminal (MAC).
+2. Go to above site for installer.
+3. Hold down "Boot" button on the back of the CYD and click "Install" on installer site.
+4. Release "Boot" button.
+5. Answer the prompts.
+6. Calibrate the screen with the stylus when it has completed installing
+7. 
 
 ### Screenshots
 (Quite literally shots of the screen. I'm sorry)
