@@ -1,4 +1,4 @@
-# Instructions for Cheap Yellow Screen (CYD) using Klipper 3D printers
+# Instructions for Cheap Yellow Display (CYD) using Klipper 3D printers
 
 ## Teaching Tech Video with instructions
 https://www.youtube.com/watch?v=R3o0MGYW1ZU&list=LL&index=9 
